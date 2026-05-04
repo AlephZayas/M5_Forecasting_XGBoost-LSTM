@@ -1,4 +1,4 @@
-# 📈 M5 Forecasting: XGBoost vs LSTM  
+# M5 Forecasting: XGBoost vs LSTM  
 ### Predicción de ventas a 28 días (multi-output time series)
 
 ---
