@@ -154,21 +154,3 @@ El análisis completo, justificación metodológica y resultados detallados se e
 `Proyecto_Módulo_IV.pdf`
 
 ---
-
-## Principales Aprendizajes
-
-- Diferencias estructurales entre modelos tabulares y secuenciales  
-- Importancia del feature engineering en series de tiempo  
-- Complejidad del enfoque multi-output  
-- Trade-off entre interpretabilidad (XGBoost) y capacidad temporal (LSTM)  
-
----
-
-## Posibles Mejoras
-
-- Implementación de métricas específicas de forecasting (WRMSSE)  
-- Ensemble entre XGBoost y LSTM  
-- Uso de modelos avanzados como N-BEATS o N-HiTS  
-- Deploy del modelo (API o dashboard interactivo)  
-
----
