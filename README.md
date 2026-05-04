@@ -151,7 +151,7 @@ https://www.kaggle.com/competitions/m5-forecasting-accuracy/data
 
 El análisis completo, justificación metodológica y resultados detallados se encuentran en:
 
-`/docs/report.pdf`
+`Proyecto_Módulo_IV.pdf`
 
 ---
 
